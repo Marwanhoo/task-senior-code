@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Figma UI Fatto App](https://www.figma.com/design/aL598PzIdgpFkrIYLm1Unt/Home-screen-(-Fatto-App-)?node-id=0-1&t=6Kcx4YcBExwZ7jOV-1)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
